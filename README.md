@@ -1,4 +1,4 @@
-# dashboars
+# Social Media Analysis Dashboard
 In this Project, i created a dashboard of Indian influencers on different platforms showcasing their revenue, followers, likes, shares, views, and comments
  Title: Unveiling India's Social Media Landscape: Data-driven Insights 📊
 
